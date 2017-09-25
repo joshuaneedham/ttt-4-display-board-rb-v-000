@@ -3,5 +3,5 @@
 def display_board(board)
   puts "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   "
   board = []
-  puts "X #{board[5]}"
+  puts "X #{board[2]}"
 end
