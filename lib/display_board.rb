@@ -3,5 +3,4 @@
 def display_board(board)
   puts "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   "
   board = []
-  board = [" "," "," "," ","X"," "," "," "," "]
 end
